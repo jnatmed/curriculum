@@ -1,0 +1,55 @@
+body{
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#LADO-IZQUIERDO {
+      float: left;
+    /* text-align: center; */
+    width: 65%;
+    margin: 0px;
+    padding-top: 0%;
+
+}
+
+#WORK-EXPERIENCE #titulo-seccion {
+    text-align: center;
+}
+
+#WORK-EXPERIENCE #titulo-seccion h2 { 
+    margin: 0px;
+}
+
+#WORK-EXPERIENCE #list-work-experience p{
+    margin: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+/* #WORK-EXPERIENCE #list-work-experience ol li {
+    float: left;
+} */
+
+/* #WORK-EXPERIENCE #list-work-experience ol li #fecha, img{
+    width: 20%;
+}
+#WORK-EXPERIENCE #list-work-experience ol li #detalle{
+    width: 80%;
+} */
+#LADO-IZQUIERDO h1, #NOMBRE-POSTULANTE h2 {
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+#LADO-DERECHO {
+ background-color: #e3d7c9;
+ text-align: center;
+ width: 30%;
+ float: right;
+ padding: 10px;
+}
+#NOMBRE-POSTULANTE {
+ background-color: #38393b;   
+}
