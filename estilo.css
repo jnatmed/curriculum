@@ -3,6 +3,10 @@ body{
     margin-left: 20px;
     margin-right: 20px;
 }
+p.detalle {
+    width: 60%;
+    float: right;
+}
 #LADO-IZQUIERDO {
       float: left;
     /* text-align: center; */
@@ -42,6 +46,13 @@ li {
     margin: 0px;
     text-align: center;
     color: white;
+}
+
+#LADO-IZQUIERDO #DIDACTIC #titulo{
+    text-align: center;
+}
+#LADO-IZQUIERDO #EDUCATION #titulo{
+    text-align: center;
 }
 #LADO-DERECHO {
  background-color: #e3d7c9;
